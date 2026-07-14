@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.vscode/
+
+reports/*.pdf
