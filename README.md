@@ -6,7 +6,7 @@ An interactive machine health assessment system that uses machine learning to es
 
 <p align="center">
   <a href="https://mhisproject.streamlit.app/">🚀 Live Demo</a> •
-  <a href="https://github.com/abhinavkumar1268b/Machine-Health-Intelligence-System-Project/blob/main/Report_MHIS_Professional.pdf> 🎯 REPORT </a>
+[🎯 REPORT](https://github.com/abhinavkumar1268b/Machine-Health-Intelligence-System-Project/blob/main/Report_MHIS_Professional.pdf)
 </p>
 
 <p align="center">
